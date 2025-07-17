@@ -1,3 +1,5 @@
+<img width="3789" height="1749" alt="image" src="https://github.com/user-attachments/assets/6508d955-cfda-417e-8575-414c1a379ce9" />
+
 🛠️ Tools & Technologies:
 
 Python (Pandas, NumPy): For data cleaning, transformation, and analysis
