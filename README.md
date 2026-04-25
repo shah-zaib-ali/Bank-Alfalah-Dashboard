@@ -174,10 +174,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
-
-Made with 💙 | Data Analytics × Web Development
-
-⭐ *If you found this project useful, consider starring the repo!*
 
 </div>
